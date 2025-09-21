@@ -1,0 +1,4 @@
+# Image Resizer Tool Requirements
+# Python Developer Internship - Task 7
+
+Pillow==10.2.0
